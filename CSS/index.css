@@ -832,6 +832,7 @@ a {
     }
 
     .mobile-menu{
+        display: block;
         background-color: #F7472E;
         color           : #fff;
         line-height     : 1px;
