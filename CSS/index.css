@@ -239,6 +239,11 @@ a {
     color: #fff;
 }
 
+.mobile-menu,
+.special-category-mobile{
+    display: none;
+}
+
 #shopping-alert {
     display : none;
     position: absolute;
@@ -666,6 +671,11 @@ a {
 
 @media (max-width: 1024px) and (min-width: 740px){
     
+    .mobile-menu,
+    .special-category-mobile{
+        display: none;
+    }
+
     #top{
         bottom: 111px;
     }
