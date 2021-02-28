@@ -843,12 +843,7 @@ a {
         z-index: 9999;
     }
     
-    .mobile-menu .col-sm-8{
-        width: calc(100% / 1.25);
-    }
-
-    .mobile-menu .col-sm-4{
-        width: calc(100% - 100% / 1.25);
+    .mobile-menu .col-sm-12 a{
         align-self: center;
     }
 
